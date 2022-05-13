@@ -22,4 +22,4 @@
 
 ## Genshin Impact / 原神卡片
 
-<img src="https://genshin-card.getloli.com/rand/308489426.png" alt="genshin-card" />
+![Genshin Impact](https://genshin-card.getloli.com/7-10,12,13,17,18/308489426.png)
