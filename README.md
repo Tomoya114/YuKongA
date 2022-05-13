@@ -22,4 +22,4 @@
 
 ## Genshin Impact
 
-[![Genshin Impact](https://genshin-card.getloli.com/7-10,12,13,17,18/308489426.png)](#)
+[![Genshin Impact](https://genshin-card.getloli.com/7-10,17-20,27-28/308489426.png)](#)
