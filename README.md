@@ -19,7 +19,8 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Android 12](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
-
+[![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](#)
+  
 ## Readme Card
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
