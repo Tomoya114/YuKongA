@@ -13,7 +13,9 @@
 [![Redmi K50](https://img.shields.io/badge/Redmi%20K50-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook%20Pro%2015-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-
+[![onePlus 6](https://img.shields.io/badge/OnePlus%206-f50514?style=flat-square&logo=oneplus&logoColor=ffffff)](#)
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-e60012?style=flat-square&logo=nintendo&logoColor=ffffff)](#)
+  
 ## System Environment
 
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
