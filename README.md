@@ -26,7 +26,3 @@
 ## Readme Card
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=YuKongA&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
-
-## Genshin Impact
-
-[![Genshin Impact](https://genshin-card.getloli.com/28/308489426.png)](#)
